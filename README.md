@@ -3,11 +3,11 @@
 ยินดีต้อนรับสู่ Repository สำหรับบันทึกการเรียนรู้และโปรเจกต์ในรายวิชา Backend Development ครับ!
 
 ## 👨‍💻 About Me (เกี่ยวกับฉัน)
-- **ชื่อ:** [ใส่ชื่อ-นามสกุลของคุณ] (Developer No. 673190105)
+- **ชื่อ:** [Kittikun Nookeaw] (Developer No. 673190105)
 - **สถานศึกษา:** วิทยาลัยพณิชยการบางนา (Bangna Commercial College)
 - **สาขาวิชา:** เทคโนโลยีสารสนเทศ (Information Technology)
 - **จุดประสงค์:** เพื่อศึกษาและพัฒนาทักษะในรายวิชา Backend Development มุ่งเน้นการสร้าง API การจัดการฐานข้อมูล และระบบหลังบ้าน เพื่อนำไปต่อยอดในการพัฒนา Full-Stack Web Application และระบบจัดการต่างๆ ในอนาคต
-
+https://rms.bncc.ac.th/files/importpicstd/01/69319010005.jpg
 ---
 
 ## 📚 รายวิชา Backend Development
